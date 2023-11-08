@@ -41,6 +41,9 @@ I want to improve my skills for a job opportunity in the IT field.
 ## 6. Work experience
   
   https://github.com/polinabs/rsschool-cv.git
+
+## 8. Language
+English level - B1 (EF SET)
   
 
 ## 7. Education and courses
